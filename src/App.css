@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+#stateTable
+{
+  table-layout: fixed;
+  height: 60px;
+  width:  100px;
+  border-collapse: collapse;
+  border: 2px solid black;
+  margin: 5px;
+  background-color: grey;
+
+}
+
 
 @keyframes App-logo-spin {
   from {
